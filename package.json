@@ -1,0 +1,26 @@
+{
+  "name": "solor-ai",
+  "version": "1.0.0",
+  "description": "Discord.js v14 Gemini Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "gemini",
+    "ai",
+    "chatbot"
+  ],
+  "author": "Huztro Dev",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.30.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
